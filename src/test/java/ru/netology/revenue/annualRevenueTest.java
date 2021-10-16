@@ -1,3 +1,5 @@
+package ru.netology.revenue;
+
 import org.junit.jupiter.api.Test;
 import ru.netology.revenue.annualRevenue;
 
